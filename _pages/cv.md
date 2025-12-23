@@ -15,13 +15,13 @@ toc:
 
 <div class="publications"><h2 class="bibliography"> 2024 - now</h2></div>
 
-- **Postdoctoral researcher**   
+- ** Herchel–Smith Postdoctoral Fellow**   
   _University of Cambridge, UK_   
-  [Prof. Gonçalo Bernades group](https://gbernardeslab.com)
+  [Prof. Gonçalo Bernades group](https://bernardes.group.ch.cam.ac.uk/)
 
 <div class="publications"><h2 class="bibliography"> 2023-2024 </h2></div>
 
-- **Postdoctoral researcher**   
+- **Postdoctoral Researcher**   
   _University of Zaragoza, Spain_      
   [Prof. Jesus Santamaria group](https://nfp.unizar.es)   
 
